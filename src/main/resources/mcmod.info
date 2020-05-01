@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rrtkobolds",
+  "name": "RRT* Kobolds",
+  "description": "Kobolds that pathfind using RRT*. Made for CS730 at UNH.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jacob Hawkins"],
+  "credits": "Jacob Hawkins",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

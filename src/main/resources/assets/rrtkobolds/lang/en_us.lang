@@ -1,0 +1,14 @@
+item.item_kobold_navigator.name=Kobold Navigation Unit
+
+tile.block_goal.name=Kobold Goal
+
+entity.entity_kobold.name=Kobold
+
+kobold.selected=Selected Kobold %d
+kobold.selected.destination=Set destination of kobold %d to (%d, %d, %d)
+kobold.selected.error=Please select a kobold first
+kobold.selected.destination.outofrange=Destination out of range (range is %d, destination is %d)
+kobold.selected.dead=Kobold %d has died. Please choose another kobold
+kobold.selected.busy=Kobold %d is pathfinding to (%d, %d, %d). Please wait for it to finish
+
+itemGroup.rrtkobolds_items=RRT* Kobolds

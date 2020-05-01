@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures":
+	{
+		"layer0": "rrtkobolds:items/item_kobold_navigator"
+	}
+}
